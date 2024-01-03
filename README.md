@@ -1,2 +1,2 @@
 # git-conflict-test
-깃 충돌 테스트
+이게 맞나??
