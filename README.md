@@ -1,3 +1,2 @@
 # git-conflict-test
-깃 충돌 테스트
-hihi 송인준 1
+무궁화꽃이피었습니다
